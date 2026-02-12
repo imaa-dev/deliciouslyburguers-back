@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# VSCode / PyCharm
+.idea/
+.vscode/
+.idea/
+.idea/*.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
